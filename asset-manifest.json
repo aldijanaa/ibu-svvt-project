@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ibu-svvt-project/static/css/main.92abd59e.css",
+    "main.js": "/ibu-svvt-project/static/js/main.3bdaefb8.js",
+    "static/media/logo-1.svg": "/ibu-svvt-project/static/media/logo-1.6bc22f11816186b452ec578d4adf009e.svg",
+    "index.html": "/ibu-svvt-project/index.html",
+    "static/media/ControlSidebar.svg": "/ibu-svvt-project/static/media/ControlSidebar.44e8d108313c5ab22682099ed87e57aa.svg",
+    "main.92abd59e.css.map": "/ibu-svvt-project/static/css/main.92abd59e.css.map",
+    "main.3bdaefb8.js.map": "/ibu-svvt-project/static/js/main.3bdaefb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92abd59e.css",
+    "static/js/main.3bdaefb8.js"
+  ]
+}
